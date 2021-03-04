@@ -1,0 +1,26 @@
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.exe.config
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.exe
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.pdb
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csprojAssemblyReference.cache
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Properties.Resources.resources
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csproj.GenerateResource.cache
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.exe
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.pdb
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Login.resources
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Mainsystem.resources
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.NewUser.resources
+C:\Users\PYC\source\repos\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.About.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.exe.config
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.exe
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\bin\Debug\Yuchen Peng_13147715_Assignment2.pdb
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csprojAssemblyReference.cache
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.About.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Login.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Mainsystem.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.NewUser.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen_Peng_13147715_Assignment2.Properties.Resources.resources
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csproj.GenerateResource.cache
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.exe
+C:\Users\PYC\Desktop\Yuchen Peng_13147715_Assignment2\Yuchen Peng_13147715_Assignment2\obj\Debug\Yuchen Peng_13147715_Assignment2.pdb
